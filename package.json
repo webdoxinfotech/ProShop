@@ -1,0 +1,14 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "ecom",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "varun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
